@@ -1,0 +1,3 @@
+[submodule "CarND-Capstone"]
+	path = CarND-Capstone
+	url = git@github.com:zhangxg/CarND-Capstone.git
