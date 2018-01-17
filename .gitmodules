@@ -1,3 +1,42 @@
 [submodule "CarND-Capstone"]
 	path = CarND-Capstone
 	url = git@github.com:zhangxg/CarND-Capstone.git
+[submodule "CarND-Advanced-Lane-Lines"]
+	path = CarND-Advanced-Lane-Lines
+	url = git@github.com:zhangxg/CarND-Advanced-Lane-Lines.git
+[submodule "CarND-Behavioral-Cloning-P3"]
+	path = CarND-Behavioral-Cloning-P3
+	url = git@github.com:zhangxg/CarND-Behavioral-Cloning-P3.git
+[submodule "CarND-Extended-Kalman-Filter-Project"]
+	path = CarND-Extended-Kalman-Filter-Project
+	url = git@github.com:zhangxg/CarND-Extended-Kalman-Filter-Project.git
+[submodule "CarND-Functional-Safety-Project"]
+	path = CarND-Functional-Safety-Project
+	url = git@github.com:zhangxg/CarND-Functional-Safety-Project.git
+[submodule "CarND-Kidnapped-Vehicle-Project"]
+	path = CarND-Kidnapped-Vehicle-Project
+	url = git@github.com:zhangxg/CarND-Kidnapped-Vehicle-Project.git
+[submodule "CarND-LaneLines-P1"]
+	path = CarND-LaneLines-P1
+	url = git@github.com:zhangxg/CarND-LaneLines-P1.git
+[submodule "CarND-MPC-Project"]
+	path = CarND-MPC-Project
+	url = git@github.com:zhangxg/CarND-MPC-Project.git
+[submodule "CarND-PID-Control-Project"]
+	path = CarND-PID-Control-Project
+	url = git@github.com:zhangxg/CarND-PID-Control-Project.git
+[submodule "CarND-Path-Planning-Project"]
+	path = CarND-Path-Planning-Project
+	url = git@github.com:zhangxg/CarND-Path-Planning-Project.git
+[submodule "CarND-Semantic-Segmentation"]
+	path = CarND-Semantic-Segmentation
+	url = git@github.com:zhangxg/CarND-Semantic-Segmentation.git
+[submodule "CarND-Traffic-Sign-Classifier-Project"]
+	path = CarND-Traffic-Sign-Classifier-Project
+	url = git@github.com:zhangxg/CarND-Traffic-Sign-Classifier-Project.git
+[submodule "CarND-Unscented-Kalman-Filter-Project"]
+	path = CarND-Unscented-Kalman-Filter-Project
+	url = git@github.com:zhangxg/CarND-Unscented-Kalman-Filter-Project.git
+[submodule "CarND-Vehicle-Detection"]
+	path = CarND-Vehicle-Detection
+	url = git@github.com:zhangxg/CarND-Vehicle-Detection.git
